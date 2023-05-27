@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Githubnathi/personal-management-system/main/public/logo-small.png?raw=true" width="100px"/>
+<img src="https://github.com/Githubnathi/personal-management-system/public/logo-small.png?raw=true" width="100px"/>
 </p>
 
 <h1 align="center"> Personal Management System</h1>
