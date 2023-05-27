@@ -149,7 +149,7 @@
 
 <h2>Special thanks to</h2>
 <ul>
-	<li><a href="https://github.com/lomsey41">Salome Bassey</a> - for  support generally
+	<li><a href="https://github.com/lomsey41">Salome Bassey</a> - for her  support generally
 </ul>
 
 <h3>Contact</h3>
