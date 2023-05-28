@@ -1,12 +1,12 @@
 {
-    "name": "volmarg/personal-management-system",
-    "authors": [{
-        "name": "Dariusz Włodarczyk",
-        "email": "dwlodarczyk12@gmail.com",
+    "name": "Githubnath/personal-management-system",
+    "author": [{
+        "name": "Nathanie Emenike",
+        "email": "emenikenathaniel55@gmail.com",
         "role": "Developer"
     }],
     "description": "Personal Management System - Your central point for managing personal data",
-    "license": "MIT",
+    "license": "ALX",
     "keywords": [
         "symfony",
         "template",
@@ -55,8 +55,8 @@
         "symfony/yaml": "^5.0",
         "tinymce/tinymce": "^5.0",
         "twig/extensions": "^1.5",
-        "volmarg/notifier-proxy-logger-bridge": "^1.0",
-        "volmarg/personal-management-system-io-bridge": "^1.0"
+        "githubnath/notifier-proxy-logger-bridge": "^1.0",
+        "githubnath/personal-management-system-io-bridge": "^1.0"
     },
     "require-dev": {
         "doctrine/doctrine-fixtures-bundle": "^3.2",
