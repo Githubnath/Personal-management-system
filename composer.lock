@@ -58,7 +58,7 @@
                 "doctrine",
                 "orm"
             ],
-            "time": "2020-10-01T05:10:47+00:00"
+            "time": "2023-05-01T05:10:47+00:00"
         },
         {
             "name": "composer/package-versions-deprecated",
@@ -100,7 +100,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "MIT"
+                "MTI"
             ],
             "authors": [
                 {
@@ -113,7 +113,7 @@
                 }
             ],
             "description": "Composer plugin that provides efficient querying for installed package versions (no runtime IO)",
-            "time": "2020-08-25T05:50:16+00:00"
+            "time": "2023-05-25T05:50:16+00:00"
         },
         {
             "name": "cweagans/composer-patches",
@@ -157,7 +157,7 @@
                 }
             ],
             "description": "Provides a way to patch Composer packages.",
-            "time": "2020-09-30T17:56:20+00:00"
+            "time": "2023-05-30T17:56:20+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -227,7 +227,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2020-08-10T19:35:50+00:00"
+            "time": "2023-05-10T19:35:50+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -309,7 +309,7 @@
                 "redis",
                 "xcache"
             ],
-            "time": "2020-07-07T18:54:01+00:00"
+            "time": "2023-05-07T18:54:01+00:00"
         },
         {
             "name": "doctrine/collections",
@@ -457,7 +457,7 @@
                 "doctrine",
                 "php"
             ],
-            "time": "2020-06-05T16:46:05+00:00"
+            "time": "2023-05-05T16:46:05+00:00"
         },
         {
             "name": "doctrine/dbal",
@@ -642,7 +642,7 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2020-08-25T10:57:15+00:00"
+            "time": "2023-05-25T10:57:15+00:00"
         },
         {
             "name": "doctrine/doctrine-migrations-bundle",
@@ -710,7 +710,7 @@
                 "migrations",
                 "schema"
             ],
-            "time": "2020-06-25T19:36:08+00:00"
+            "time": "2023-05-25T19:36:08+00:00"
         },
         {
             "name": "doctrine/event-manager",
@@ -786,7 +786,7 @@
                 "event system",
                 "events"
             ],
-            "time": "2020-05-29T18:28:51+00:00"
+            "time": "2023-05-29T18:28:51+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -864,7 +864,7 @@
                 "uppercase",
                 "words"
             ],
-            "time": "2020-05-29T07:19:59+00:00"
+            "time": "2023-05-29T07:19:59+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -920,7 +920,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2020-05-29T17:27:14+00:00"
+            "time": "2023-05-29T17:27:14+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -1064,7 +1064,7 @@
                 "migrations",
                 "php"
             ],
-            "time": "2019-12-04T06:09:14+00:00"
+            "time": "2023-05-04T06:09:14+00:00"
         },
         {
             "name": "doctrine/orm",
@@ -1236,7 +1236,7 @@
                 "orm",
                 "persistence"
             ],
-            "time": "2020-06-20T12:56:16+00:00"
+            "time": "2023-05-20T12:56:16+00:00"
         },
         {
             "name": "doctrine/reflection",
@@ -1314,7 +1314,7 @@
                 "reflection",
                 "static"
             ],
-            "time": "2020-03-27T11:06:43+00:00"
+            "time": "2023-05-27T11:06:43+00:00"
         },
         {
             "name": "doctrine/sql-formatter",
@@ -1367,7 +1367,7 @@
                 "highlight",
                 "sql"
             ],
-            "time": "2020-07-30T16:57:33+00:00"
+            "time": "2023-05-30T16:57:33+00:00"
         },
         {
             "name": "egulias/email-validator",
@@ -1577,7 +1577,7 @@
             "keywords": [
                 "google"
             ],
-            "time": "2020-10-19T00:26:26+00:00"
+            "time": "2023-05-19T00:26:26+00:00"
         },
         {
             "name": "google/auth",
@@ -1629,7 +1629,7 @@
                 "google",
                 "oauth2"
             ],
-            "time": "2020-10-16T21:33:48+00:00"
+            "time": "2023-05-16T21:33:48+00:00"
         },
         {
             "name": "gumlet/php-image-resize",
