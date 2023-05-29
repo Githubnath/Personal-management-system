@@ -9,7 +9,7 @@
 <hr>
 
 <ul>
-<li><b>Documentation</b> - available <a href="https://Githubnath.github.io"><b>here</b></a></li>
+<li><b>Documentation</b> - available <a href="https://githubnath.github.io/Personal-management-system/"><b>here</b></a></li>
 <li><b>Demo</b> - click <a href="http://personal-management-system/"><b>here </b></a>
 <ul>
 <li><b>Login:</b> admin</li>
