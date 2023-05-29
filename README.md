@@ -148,7 +148,6 @@
 <li><a href="https://github.com/mbezhanov/faker-provider-collection">Faker Provider Collection</a> <small>(<a href="https://github.com/fzaninotto/faker">Faker</a> extension)</small></li>
 <li><a href="https://github.com/EastDesire/jscolor">JsColor</a> (<small>Color pickers for Notes module</small>)</li>
 <li>... bootstrap, TinyMce, DataTables and many others</li>
-<li>... I don't even know some of them which come prebuild in Symfonator</li>
 </ul>
 
 <h2>Special thanks to</h2>
@@ -158,5 +157,4 @@
 
 <h3>Contact</h3>
 <hr>
-
 - <p align="left"><b>Mail</b> - <a href="mailto:emenikenathaniel55@gmail.com"><i>emenike.nathaniel@gmail.com</i></a></p>
