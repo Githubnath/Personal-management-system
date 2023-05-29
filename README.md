@@ -46,6 +46,8 @@
 
 <img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview2.png">
 
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/githubnath_avatar.jpg">
+
 <h3>Available options and modules</h3>
 <hr>
 
