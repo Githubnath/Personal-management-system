@@ -38,11 +38,11 @@
 <h3>Preview</h3>
 <hr>	
 
-<img src="https://Githubnath.github.io/img/project-example-dashboard.jpg">
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview4.png">
 
-<img src="https://Githubnath.github.io/img/project-example-charts.jpg">
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview3.png">
 
-<img src="https://Githubnath.github.io/img/project-example-contacts.jpg">
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview1.png">
 
 <img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview2.png">
 
