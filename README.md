@@ -44,6 +44,8 @@
 
 <img src="https://Githubnath.github.io/img/project-example-contacts.jpg">
 
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview2.png">
+
 <h3>Available options and modules</h3>
 <hr>
 
