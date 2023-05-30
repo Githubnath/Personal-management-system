@@ -1,5 +1,5 @@
 {
-  "name": "Personal_Management_System",
+  "name": "personal_management_system",
   "version": "1.0.0",
   "private": true,
   "description": "Personal Management System - Your central point for managing personal data",
@@ -130,5 +130,11 @@
     "twig": "^1.15.2",
     "video.js": "^7.10.1",
     "vue": "^3.1.4"
-  }
+  },
+  "main": "webpack.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "author": "",
+  "license": "ISC"
 }
