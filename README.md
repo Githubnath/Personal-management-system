@@ -150,7 +150,7 @@
 <li>... bootstrap, TinyMce, DataTables and many others</li>
 </ul>
 
-<h2>Special thanks to</h2>
+<h2>Special Thanks to</h2>
 <ul>
 	<li><a href="https://github.com/lomsey41">Salome Bassey</a> - For  her  technical  support
 </ul>
