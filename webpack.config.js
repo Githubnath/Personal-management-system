@@ -100,3 +100,12 @@ if( !Encore.isProduction() ){
 
 // export the final configuration
 module.exports = [app_js_build];
+
+// webpack.config.js
+const Encore = require('@symfony/webpack-encore')
+
+if (!Encore.isRuntimeEnvironmentConfigured()) {
+    Encore.configureRuntimeEnvironment(process.env.NODE_ENV || 'dev');
+}
+
+// ... the rest of the Encore configuration
