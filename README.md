@@ -97,6 +97,12 @@
 </p>	
 <hr>
 
+<h3>Contributing</h3>
+<p>
+        <i>I would be happy to receive your help and participation with enhancing the solutions and code contained here. Please visit the guidelines https://github.com/Githubnath/personal_information_management_system./blob/main/CONTRIBUTING.md for contributing for some tips on getting started.</i>
+</p>
+<hr>
+
 <h2>Support</h2>
 
 <p align="justify">
@@ -156,6 +162,12 @@
 <ul>
 	<li><a href="https://github.com/lomsey41">Salome Bassey</a> - For  her  technical  support
 </ul>
+
+<h3>License</h3>
+<p>
+        <i>README.md Unless otherwise noted, the software in this repository is licensed under the [MIT] license.</i>
+</p>
+<hr>
 
 <h3>Contact</h3>
 <hr>
