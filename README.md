@@ -96,12 +96,11 @@
 	<i>Overally I will just add some bug fixes/improvements/modules from time to time - anything that I will just need.</i>
 </p>	
 <hr>
-
 <h3>Contributing</h3>
 <p>
         <i>I would be happy to receive your help and participation with enhancing the solutions and code contained here. Please visit the
-<a href="https://github.com/Githubnath/Personal-management-system/blob/main/CONTRIBUTING.md</a>
-  for some tips on getting started">guidelines for contributing</a>
+<a href="https://github.com/Githubnath/Personal-management-system/blob/main/CONTRIBUTING.md">guidelines for contributing</a
+<i>
 </p>
 <hr>
 
