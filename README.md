@@ -100,7 +100,7 @@
 <h3>Contributing</h3>
 <p>
         <i>I would be happy to receive your help and participation with enhancing the solutions and code contained here. Please visit the
-<a href="https://github.com/Githubnath/personal_information_management_system./blob/main/CONTRIBUTING.md</>
+<a href="https://github.com/Githubnath/Personal-management-system/blob/main/CONTRIBUTING.md</a>
   for some tips on getting started">guidelines for contributing</a>
   for some tips on getting started.</a>
 </p>
