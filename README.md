@@ -38,6 +38,8 @@
 <h3>Preview</h3>
 <hr>	
 
+<img src="https://github.com/Githubnath/Personal-management-system/blob/main/github/pms%20dashboard.jpg">
+
 <img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview4.png">
 
 <img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview3.png">
