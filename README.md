@@ -170,9 +170,12 @@
 </p>
 <hr>
 
-<h3>LinkedIn</h3>
-<hr>
-- <p align="left"><b>linkedin</b> - <a href="linkedin:https://www.linkedin.com/mwlite/in/nathaniel-emenike</i></a></p>
+<h3>Linkedin</h3>
+
+<ul>
+        <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Authors  Linkedin
+</ul>
+
 
 <h3>Contact</h3>
 <hr>
