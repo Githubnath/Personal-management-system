@@ -170,6 +170,10 @@
 </p>
 <hr>
 
+<h3>LinkedIn</h3>
+<hr>
+- <p align="left"><b>linkedin</b> - <a href="linkedin:https://www.linkedin.com/mwlite/in/nathaniel-emenike</i></a></p>
+
 <h3>Contact</h3>
 <hr>
 - <p align="left"><b>Mail</b> - <a href="mailto:emenikenathaniel55@gmail.com"><i>emenike.nathaniel@gmail.com</i></a></p>
