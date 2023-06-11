@@ -176,7 +176,18 @@
         <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Authors  Linkedin
 </ul>
 
+<h3>Blog</h3>
 
-<h3>Contact</h3>
+<ul>
+        <li><a href="https://emenikeblog.hashnode.dev/personal-management-system">Blog</a> - Project blog article
+</ul>
+
+<h3>Project</h3>
+
+<ul>
+        <li><a href="https://githubnath.github.io//">Project</a> - Portfolio project
+</ul>
+
+<h3>Email</h3>
 <hr>
 - <p align="left"><b>Mail</b> - <a href="mailto:emenikenathaniel55@gmail.com"><i>emenike.nathaniel@gmail.com</i></a></p>
