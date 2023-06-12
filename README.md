@@ -173,7 +173,7 @@
 <h3>Linkedin</h3>
 
 <ul>
-        <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Authors  Linkedin
+        <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Author's  Linkedin
 </ul>
 
 <h3>Blog</h3>
