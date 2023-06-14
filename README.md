@@ -143,7 +143,7 @@
 <li>Scss</li>
 <li>Node 14.17.x</li>
 <li>Bootstrap</li>
-<li>Webpack</li><small>module bundler</small></li>
+<li>Webpack</li> <small>(module bundler)</small></li>
 </ul>
 
 <h3>Used packages</h3>
