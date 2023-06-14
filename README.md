@@ -141,10 +141,9 @@
 <li>MySQL</li>
 <li>Css</li>
 <li>Scss</li>
-<li>Node 10.22.1</li>
+<li>Node 14.17.x</li>
 <li>Bootstrap</li>
-<li>Webpack</li>
-<li><small>And maybe some others which I just don't remember</small></li>
+<li>Webpack</li><small>module bundler</small></li>
 </ul>
 
 <h3>Used packages</h3>
